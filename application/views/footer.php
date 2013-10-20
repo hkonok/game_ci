@@ -33,4 +33,7 @@
    	</div> <!-- end of footer -->
  </div> <!-- end of container -->
 <!--  Free CSS Template is provided by www.TemplateMo.com  -->
+<script type="text/javascript" src="<?php echo base_url(); ?>assets/modal/download/modal.js"></script>
+           
+        </body>
 </html>
